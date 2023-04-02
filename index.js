@@ -113,4 +113,4 @@ process.on("multipleResolves", (type, promise, reason) => {
   return;
 });
 
-client.login('MTA5MTk5NzMzNzc4MzYzNjAwOA.G8n490.Kd0AgqoEtDotad7Buhlfk-wzRzBSqjuthyxa_0')//token
+client.login('put-token-here')//token
